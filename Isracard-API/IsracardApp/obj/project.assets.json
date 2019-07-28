@@ -11830,11 +11830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\source\\repos\\IsracardApp\\IsracardApp\\IsracardApp.csproj",
+      "projectUniqueName": "C:\\Users\\David\\source\\repos\\appIsracardPull\\App-Isracard\\Isracard-API\\IsracardApp\\IsracardApp.csproj",
       "projectName": "IsracardApp",
-      "projectPath": "C:\\Users\\David\\source\\repos\\IsracardApp\\IsracardApp\\IsracardApp.csproj",
+      "projectPath": "C:\\Users\\David\\source\\repos\\appIsracardPull\\App-Isracard\\Isracard-API\\IsracardApp\\IsracardApp.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\source\\repos\\IsracardApp\\IsracardApp\\obj\\",
+      "outputPath": "C:\\Users\\David\\source\\repos\\appIsracardPull\\App-Isracard\\Isracard-API\\IsracardApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

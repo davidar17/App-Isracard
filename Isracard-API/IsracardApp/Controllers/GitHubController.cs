@@ -20,7 +20,6 @@ namespace IsracardApp.Controllers
         [HttpGet("{searchKeywod}")]
         public async Task<ActionResult<string>> Get(string searchKeywod)
         {
-            HttpContext.Session.SetString("Key","Val");
             var client = new RestClient("https://api.github.com/search/repositories?q="+searchKeywod);
             var request = new RestRequest(Method.GET);
             IRestResponse response = client.Execute(request);
@@ -64,9 +63,7 @@ namespace IsracardApp.Controllers
             {
                 return BadRequest("The bookmark already exits!!!");
             }
-
             HttpContext.Session.SetString(content.Value<int>("id").ToString(), content.ToString());
-            var it = HttpContext.Session.GetString(content.Value<int>("id").ToString());
             return Ok(content);
         }
    

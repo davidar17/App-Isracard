@@ -14,13 +14,15 @@ export class AppComponent {
 
   constructor(public searchGitHub: SearchService) { }
 
+
+  // get resut from server
   searchUrl(word) {
     this.searchGitHub.getResult(word).subscribe(obj => {
       this.response = obj;
       this.items = this.response.items;
     });
   }
-
+// get all bookmarks
   getAllBookmars() {
     this.searchGitHub.getAllBookmars().subscribe(obj => { this.items = obj; });
   }

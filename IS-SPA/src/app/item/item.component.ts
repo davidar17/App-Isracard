@@ -19,8 +19,9 @@ export class ItemComponent implements OnInit {
 
   bookmark() {
 
+    // bookmark  the item
     this.search.bookmark(this.item).subscribe(() => {
-      console.log('complite post');
+      console.log('post complite');
     }, error => {
       console.log(error);
     });
