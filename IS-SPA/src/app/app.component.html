@@ -1,0 +1,32 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container">
+  <!-- Content here -->
+
+<div style="text-align:center">
+    <br>
+    <br>
+  <h1>Welcom to GitHub Search </h1>   
+  <br>
+  <br> 
+      <div class="input-group mb-3"> 
+          <div class="input-group mb-3">
+            <input  
+            #search
+            type="text" 
+            class="form-control" 
+            placeholder="Search..." 
+            (keyup.enter)="searchUrl(search.value)" 
+             >   
+
+            <div class="input-group-prepend" id="button-addon3">
+              <button class="btn btn-outline-secondary" type="button" (click)="searchUrl(search.value)" >Search...</button>
+              <button class="btn btn-outline-secondary" type="button" (click)="getAllBookmars()">Get Bookmarks</button>
+              
+          </div>      
+      </div>  
+      <div class="row">
+          <div *ngFor="let item of items" class="col-md-4  col-xl-2">
+              <app-item [item]= item></app-item>
+          </div>
+      </div> 
+  </div>

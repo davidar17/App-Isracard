@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\IsracardApp\IsracardApp\bin\Debug\netcoreapp2.1\IsracardApp.deps.json
+C:\Users\David\source\repos\IsracardApp\IsracardApp\bin\Debug\netcoreapp2.1\IsracardApp.runtimeconfig.json
+C:\Users\David\source\repos\IsracardApp\IsracardApp\bin\Debug\netcoreapp2.1\IsracardApp.runtimeconfig.dev.json
+C:\Users\David\source\repos\IsracardApp\IsracardApp\bin\Debug\netcoreapp2.1\IsracardApp.dll
+C:\Users\David\source\repos\IsracardApp\IsracardApp\bin\Debug\netcoreapp2.1\IsracardApp.pdb
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.csprojAssemblyReference.cache
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.RazorAssemblyInfo.cache
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.RazorAssemblyInfo.cs
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.AssemblyInfo.cs
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.RazorTargetAssemblyInfo.cache
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.dll
+C:\Users\David\source\repos\IsracardApp\IsracardApp\obj\Debug\netcoreapp2.1\IsracardApp.pdb
